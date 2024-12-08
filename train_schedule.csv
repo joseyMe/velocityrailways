@@ -1,0 +1,40 @@
+,request_date_time,station_name,mode,train_uid,origin_name,operator_name,platform,destination_name,aimed_departure_time,expected_departure_time,best_departure_estimate_mins,aimed_arrival_time
+0,2024-12-07T14:01:00+00:00,Richmond,train,P90712,Richmond,London Overground,5,Stratford,14:01,14:01,0,unknown
+1,2024-12-07T14:01:00+00:00,Richmond,train,C13749,Upminster Underground,London Underground,6,Upminster Underground,14:04,14:04,3,13:52
+2,2024-12-07T14:01:00+00:00,Richmond,train,C13762,Upminster Underground,London Underground,5,Upminster Underground,14:13,14:15,14,14:04
+3,2024-12-07T14:01:00+00:00,Richmond,train,P90716,Richmond,London Overground,4,Stratford,14:17,14:17,16,unknown
+4,2024-12-07T14:01:00+00:00,Richmond,train,L62107,London Waterloo,South Western Railway,1,Windsor & Eton Riverside,14:23,14:23,22,14:22
+5,2024-12-07T14:01:00+00:00,Richmond,train,C46146,Upminster Underground,London Underground,6,Upminster Underground,14:24,14:24,23,14:12
+6,2024-12-07T14:01:00+00:00,Richmond,train,L62113,Windsor & Eton Riverside,South Western Railway,2,London Waterloo,14:28,14:28,27,14:27
+7,2024-12-07T14:01:00+00:00,Richmond,train,L61316,London Waterloo,South Western Railway,1,London Waterloo,14:30,14:30,29,14:29
+8,2024-12-07T14:01:00+00:00,Richmond,train,P90720,Richmond,London Overground,5,Stratford,14:31,14:31,30,unknown
+9,2024-12-07T14:01:00+00:00,Richmond,train,C46150,Upminster Underground,London Underground,7,Upminster Underground,14:34,14:34,33,14:22
+10,2024-12-07T14:01:00+00:00,Richmond,train,C46152,Upminster Underground,London Underground,6,Upminster Underground,14:43,14:43,42,14:34
+11,2024-12-07T14:01:00+00:00,Richmond,train,P90724,Richmond,London Overground,4,Stratford,14:47,14:47,46,unknown
+12,2024-12-07T14:01:00+00:00,Richmond,train,L60494,London Waterloo,South Western Railway,2,London Waterloo,14:49,14:49,48,14:48
+13,2024-12-07T14:01:00+00:00,Richmond,train,L62117,London Waterloo,South Western Railway,1,Windsor & Eton Riverside,14:53,14:53,52,14:52
+14,2024-12-07T14:01:00+00:00,Richmond,train,C46154,Upminster Underground,London Underground,7,Upminster Underground,14:54,14:54,53,14:42
+15,2024-12-07T14:01:00+00:00,Richmond,train,L61319,London Waterloo,South Western Railway,1,London Waterloo,14:58,14:58,57,14:58
+16,2024-12-07T14:01:00+00:00,Richmond,train,L62121,Windsor & Eton Riverside,South Western Railway,2,London Waterloo,14:58,14:58,57,14:57
+17,2024-12-07T14:01:00+00:00,Richmond,train,P90729,Richmond,London Overground,5,Stratford,15:01,15:01,60,unknown
+18,2024-12-07T14:01:00+00:00,Richmond,train,C46157,Upminster Underground,London Underground,6,Upminster Underground,15:04,15:04,63,14:52
+19,2024-12-07T14:01:00+00:00,Richmond,train,L58599,London Waterloo,South Western Railway,1,Reading,15:06,15:06,65,15:06
+20,2024-12-07T14:01:00+00:00,Richmond,train,C46159,Upminster Underground,London Underground,5,Upminster Underground,15:13,15:13,72,15:04
+21,2024-12-07T14:01:00+00:00,Richmond,train,L58604,Reading,South Western Railway,2,London Waterloo,15:15,15:15,74,15:15
+22,2024-12-07T14:01:00+00:00,Richmond,train,P90732,Richmond,London Overground,4,Stratford,15:17,15:17,76,unknown
+23,2024-12-07T14:01:00+00:00,Richmond,train,L60496,London Waterloo,South Western Railway,2,London Waterloo,15:19,15:19,78,15:18
+24,2024-12-07T14:01:00+00:00,Richmond,train,L62127,London Waterloo,South Western Railway,1,Windsor & Eton Riverside,15:23,15:23,82,15:22
+25,2024-12-07T14:01:00+00:00,Richmond,train,C46162,Upminster Underground,London Underground,6,Upminster Underground,15:24,15:24,83,15:12
+26,2024-12-07T14:01:00+00:00,Richmond,train,L61321,London Waterloo,South Western Railway,1,London Waterloo,15:28,15:28,87,15:28
+27,2024-12-07T14:01:00+00:00,Richmond,train,L62133,Windsor & Eton Riverside,South Western Railway,2,London Waterloo,15:28,15:28,87,15:27
+28,2024-12-07T14:01:00+00:00,Richmond,train,P90735,Richmond,London Overground,5,Stratford,15:31,15:31,90,unknown
+29,2024-12-07T14:01:00+00:00,Richmond,train,C13590,Upminster Underground,London Underground,7,Upminster Underground,15:34,15:34,93,15:22
+30,2024-12-07T14:01:00+00:00,Richmond,train,L58608,London Waterloo,South Western Railway,1,Reading,15:36,15:36,95,15:36
+31,2024-12-07T14:01:00+00:00,Richmond,train,C46166,Upminster Underground,London Underground,6,Upminster Underground,15:43,15:43,102,15:34
+32,2024-12-07T14:01:00+00:00,Richmond,train,L58613,Reading,South Western Railway,2,London Waterloo,15:45,15:45,104,15:45
+33,2024-12-07T14:01:00+00:00,Richmond,train,P90738,Richmond,London Overground,4,Stratford,15:47,15:47,106,unknown
+34,2024-12-07T14:01:00+00:00,Richmond,train,L60499,London Waterloo,South Western Railway,2,London Waterloo,15:49,15:49,108,15:48
+35,2024-12-07T14:01:00+00:00,Richmond,train,L62137,London Waterloo,South Western Railway,1,Windsor & Eton Riverside,15:53,15:53,112,15:52
+36,2024-12-07T14:01:00+00:00,Richmond,train,C46168,Upminster Underground,London Underground,7,Upminster Underground,15:54,15:54,113,15:42
+37,2024-12-07T14:01:00+00:00,Richmond,train,L61324,London Waterloo,South Western Railway,1,London Waterloo,15:58,15:58,117,15:58
+38,2024-12-07T14:01:00+00:00,Richmond,train,L62141,Windsor & Eton Riverside,South Western Railway,2,London Waterloo,15:58,15:58,117,15:57

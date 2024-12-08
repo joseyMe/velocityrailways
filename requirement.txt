@@ -1,0 +1,10 @@
+pandas
+requests
+apache-airflow[postgres]
+sqlalchemy
+pyarrow
+python-dotenv
+great_expectations
+psycopg2
+
+

@@ -22,7 +22,7 @@ default_args = {
 dag = DAG(
     'etl_pipeline',
     default_args=default_args,
-    description='Train ETL pipeline with XCom data transfer',
+    description='Velocity rail etl pipeline with XCom data transfer',
     schedule_interval=timedelta(hours=1),
     start_date=datetime(2024, 10, 25),
     catchup=False,
